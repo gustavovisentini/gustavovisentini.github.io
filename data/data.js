@@ -8,7 +8,7 @@
 let profile = {
   picture: "",
   name: "Gustavo Visentini",
-  description: "iOS Developer and Computer Vision aplications for agriculture",
+  description: "PhD Student in Agronomy, iOS Developer and computer vision applications for agriculture",
   bio:
     " PhD Student in Agronomy, iOS Developer and computer vision applications with extensive experience a development softwares for drone and automation using technologies such as raspberry and arduino. Master of Applied Computing and graduated in Computer Science from the University of Passo Fundo. Professor at the Santa Catarina Federal Institute IFC during 2018.",
   email: "gustavo.visentini@gmail.com",
