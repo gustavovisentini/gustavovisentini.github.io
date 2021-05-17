@@ -86,7 +86,7 @@ let profile = {
       to: "Now"
     }
   ],
-  quote: "It's just a code there"
+  quote: "..."
 };
 
 let page = {
