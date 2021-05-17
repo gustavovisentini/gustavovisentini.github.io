@@ -13,7 +13,7 @@ let profile = {
     " PhD Student in Agronomy, iOS Developer and computer vision applications with extensive experience a development softwares for drone and automation using technologies such as raspberry and arduino. Master of Applied Computing and graduated in Computer Science from the University of Passo Fundo. Professor at the Santa Catarina Federal Institute IFC during 2018.",
   email: "gustavo.visentini@gmail.com",
   location: "Passo Fundo, Brazil",
-  birth: "0000-00-00", // YYYY-MM-DD format
+  birth: "2020-01-01", // YYYY-MM-DD format
 
 
   skills: [
