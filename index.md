@@ -31,14 +31,14 @@ Decision-support systems combining **AI + mechanistic crop models** (DSSAT, APSI
 
 ---
 
-## Download CV (PDF)
+##  Curriculum Vitae
 
 <p>
   <a href="/assets/Gustavo_Visentini_CV.pdf" download
      style="display:inline-block;padding:10px 14px;border-radius:8px;
             border:1px solid currentColor;
             text-decoration:none;font-weight:600;">
-    ⬇Download CV (PDF)
+    Download CV (PDF)
   </a>
 </p>
 
