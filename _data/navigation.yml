@@ -1,0 +1,13 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "CV"
+    url: /cv/
+  - title: "Projects"
+    url: /projects/
+  - title: "Talks"
+    url: /talks/
+  - title: "Patents"
+    url: /patents/
+  - title: "Contact"
+    url: /contact/

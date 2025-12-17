@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: home
 title: Home
-nav_order: 1
+author_profile: true
 ---
+
 
 # Gustavo César Visentini
 

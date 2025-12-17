@@ -1,8 +1,10 @@
 ---
-layout: default
-title:  Curriculum Vitae
-nav_order: 2
+layout: single
+title: Curriculum Vitae
+permalink: /cv/
+author_profile: false
 ---
+
 
 # CV (short)
 
