@@ -28,3 +28,14 @@ Decision-support systems combining **AI + mechanistic crop models** (DSSAT, APSI
 - [Patents](patents)
 - [Teaching](teaching)
 - [Contact](contact)
+
+---
+
+## Download CV (PDF)
+
+<p>
+  <a href="/assets/cv_resume_v2.pdf" download
+     style="display:inline-block;padding:10px 14px;border-radius:8px;border:1px solid #ccc;text-decoration:none;font-weight:600;">
+    ⬇️ Download CV (PDF)
+  </a>
+</p>
