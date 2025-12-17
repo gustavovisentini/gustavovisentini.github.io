@@ -1,8 +1,10 @@
 ---
-layout: default
-title: Talks & Posters
-nav_order: 4
+layout: single
+title: Talks
+permalink: /talks/
+author_profile: false
 ---
+
 
 # Talks & Posters
 

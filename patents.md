@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: single
 title: Patents
-nav_order: 5
+permalink: /patents/
+author_profile: false
 ---
+
 
 # Patents (INPI – Brazil)
 

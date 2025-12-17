@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: single
 title: Teaching
-nav_order: 6
+permalink: /teaching/
+author_profile: false
 ---
+
 
 # Teaching
 

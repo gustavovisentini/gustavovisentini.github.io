@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: single
 title: Projects
-nav_order: 3
+permalink: /projects/
+author_profile: false
 ---
+
 
 # Projects
 

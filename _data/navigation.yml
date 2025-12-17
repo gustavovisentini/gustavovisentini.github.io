@@ -11,3 +11,6 @@ main:
     url: /patents/
   - title: "Contact"
     url: /contact/
+  - title: "Teaching"
+    url: /teaching/
+

@@ -4,7 +4,6 @@ title: Home
 author_profile: true
 ---
 
-
 # Gustavo César Visentini
 
 **Postdoctoral Researcher (UF/IFAS – Horticultural Sciences)**  

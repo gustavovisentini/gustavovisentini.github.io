@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: single
 title: Contact
-nav_order: 7
+permalink: /contact/
+author_profile: false
 ---
+
 
 # Contact
 
