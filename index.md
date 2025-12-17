@@ -1,0 +1,30 @@
+---
+layout: default
+title: Home
+nav_order: 1
+---
+
+# Gustavo César Visentini
+
+**Postdoctoral Researcher (UF/IFAS – Horticultural Sciences)**  
+Decision-support systems combining **AI + mechanistic crop models** (DSSAT, APSIM) and **high-throughput simulations (HPC/MPI)**.
+
+📍 Gainesville, FL (UF)  
+📧 visentinig@ufl.edu
+
+---
+
+## Focus
+- Genotype × Environment × Management (G×E×M) simulation workflows
+- Nutrient management + decision support with specialized LLMs
+- Mobile applications and applied AI for agriculture
+
+---
+
+## Quick links
+- [CV](cv)
+- [Projects](projects)
+- [Talks & Posters](talks)
+- [Patents](patents)
+- [Teaching](teaching)
+- [Contact](contact)
