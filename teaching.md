@@ -5,9 +5,6 @@ permalink: /teaching/
 author_profile: false
 ---
 
-
-# Teaching
-
 ## URI Erechim (2022–Present)
 - Object-Oriented Programming
 - Mobile Programming

@@ -6,8 +6,6 @@ author_profile: false
 ---
 
 
-# CV (short)
-
 ## Education
 - **Ph.D. in Agronomy (2024)** — University of Passo Fundo (Brazil)  
   Mobile applications + frameworks for data capture and soybean simulation models.

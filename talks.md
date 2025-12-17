@@ -1,12 +1,10 @@
 ---
 layout: single
-title: Talks
+title: Talks & Posters
 permalink: /talks/
 author_profile: false
 ---
 
-
-# Talks & Posters
 
 ## Oral presentations
 - **VISTAA – Virtual Intelligent Simulation Tool for Agriculture Advisor (2026)**  

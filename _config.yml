@@ -3,7 +3,24 @@ description: Postdoctoral Researcher | AI + Crop Modeling | HPC
 url: https://gustavovisentini.github.io
 
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: light
 
 plugins:
   - jekyll-include-cache
+
+author:
+  name: Gustavo C. Visentini
+  avatar: /assets/avatar.jpg
+  bio: Postdoctoral Researcher | AI + Crop Modeling | HPC
+  location: Gainesville, FL
+  email: visentinig@ufl.edu
+  links:
+    - label: "Website"
+      icon: "fas fa-globe"
+      url: "https://gustavovisentini.github.io"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/gustavovisentini"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/gustavo-cesar-visentini"
