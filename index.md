@@ -1,8 +1,10 @@
 ---
-layout: home
+layout: single
 title: Home
 author_profile: true
 ---
+
+
 
 # Gustavo César Visentini
 
